@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8ff00&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010A26&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8ff00&size=40&center=true&vCenter=true&width=1000&lines=Opa!!,+Bão??+Eu+sou+o+Arthur;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0027B5&size=40&center=true&vCenter=true&width=1000&lines=Opa!!,+Bão??+Eu+sou+o+Arthur;)](https://git.io/typing-svg)
 
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurcqr&bg_color=0d1117&color=c8ff00&line=fbff00&point=99ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurcqr&bg_color=0d1117&color=0027B5&line=fbff00&point=99ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurcqr&show_icons=true&count_private=true&hide_border=true&title_color=c8ff00&icon_color=c8ff00&text_color=c8ff00&bg_color=0d1117" alt="Arthur github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurcqr&show_icons=true&count_private=true&hide_border=true&title_color=0027B5&icon_color=c8ff00&text_color=c8ff00&bg_color=0d1117" alt="Arthur github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcqr&layout=compact&hide_border=true&title_color=c8ff00&text_color=c8ff00&bg_color=0d1117" />
 </div>
@@ -22,7 +22,7 @@
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,html" />
   </a>
@@ -44,5 +44,5 @@
 </div>
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8ff00&height=80&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010A26&height=80&section=footer"/>
 
