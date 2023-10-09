@@ -24,12 +24,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,figma" />
+    <img src="https://skillicons.dev/icons?i=c,css,html,figma" />
   </a>
 
 <h3 align="left">Learning:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,php,mysql,blender,unreal,ps,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,js,php,mysql,blender,unreal,ps,nodejs,arduino" />
   </a>
   
  </div>
