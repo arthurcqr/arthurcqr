@@ -22,14 +22,14 @@
 <br>
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,figma" />
   </a>
 
 <h3 align="left">Learning:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,arduino,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,js,php,mysql,blender,unreal,ps,arduino" />
   </a>
   
  </div>
