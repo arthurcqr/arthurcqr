@@ -26,7 +26,7 @@
 
 <h2 align="left">Learning:</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kali,linux,lua,notion,php,mysql,blender,unreal,robloxstudio,ps,nodejs,arduino,raspberrypi,ts,react" />
+    <img src="https://skillicons.dev/icons?i=py,kali,linux,lua,notion,php,mysql,blender,unreal,robloxstudio,ps,arduino,raspberrypi,ts,react" />
   </a>
   
  </div>
