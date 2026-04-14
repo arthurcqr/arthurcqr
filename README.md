@@ -19,8 +19,12 @@
 <img src="https://github.com/arthurcqr/arthurcqr/blob/e1098c64c7f1e3222ed561796e39d9c705b10006/bell.gif" height="250px" align="right">
 <br>
 
+<h3 align="left">Tools:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,c,css,html,js,nodejs,figma,latex,discord,bots" />
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,c,css,html,js,nodejs,figma,latex,discord,bots" />
   </a>
@@ -45,6 +49,8 @@
 </div>
 </div>
 
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7A3A4&height=80&section=footer"/>
