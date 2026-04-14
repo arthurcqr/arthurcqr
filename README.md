@@ -7,11 +7,6 @@
 
 [![Arthur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurcqr&bg_color=000000&color=ffffff&line=A7A3A4&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<div align="center">  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-</div>
-
   <br>
 <div>
 
