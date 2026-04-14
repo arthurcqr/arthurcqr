@@ -45,7 +45,7 @@
 </div>
 
 
-  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+  <img align=center src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" />
 
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A7A3A4&height=80&section=footer"/>
